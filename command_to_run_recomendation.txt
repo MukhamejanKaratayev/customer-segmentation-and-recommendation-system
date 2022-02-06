@@ -1,0 +1,1 @@
+python3 recomendation_system.py /home/elmuser109/Desktop/DDI_project/final_product_combinations.csv 5823970
